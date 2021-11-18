@@ -1,6 +1,0 @@
-com/demoqa/automation/steps/BusquedaProducto.java
- com.demoqa.automation.steps.BusquedaProducto
-com/demoqa/automation/models/DatosProducto.java
- com.demoqa.automation.models.DatosProducto
-com/demoqa/automation/page/HomePage.java
- com.demoqa.automation.page.HomePage
